@@ -1,1 +1,1 @@
-Don't look here hehe :)
+Unzip in %AppData%\Roaming\DBeaverData\drivers
